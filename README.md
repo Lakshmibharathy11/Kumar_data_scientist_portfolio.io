@@ -1,55 +1,54 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, SQl, Hadoop, Spark, Tensorflow, Sci-kit learn
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- M.S., Data Analytics	| San Jose State University (_Aug 2024 - May 2026_)	 			        		
+- B.S., Electronics and communication engineering | Saranathan College of engineering (_May 2014_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Marketing Analyst  @ Repunext (_July 2020 - December 2022)**
+- Led keyword research and content optimization using SEMrush, increasing organic traffic by 5–7% in six months.
+- Analyzed website performance with Google Analytics and SQL, identifying trends to refine marketing strategies.
+- Built Tableau dashboards to track campaign performance, improving client ROI by 15% through data-driven insights.
+- Automated reporting and user segmentation with Python, boosting customer engagement by 10–12%.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Marketing Analyst @ Web Digital Mantra (_January 2018 - Febraury 2020)**
+- Conducted in-depth data analysis using SEMrush and Google Analytics to extract actionable insights from website performance metrics, leading to a 10–12% improvement in keyword rankings and a 15% increase in conversion rates
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Real-Time Harmful Image Detection Using Deep Learning & Kafka
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+- Designed and implemented a real-time image classification system to detect malicious content, addressingthechallenge of user-generated content moderation. Leveraged MobileNetV2 (83.5% accuracy) and Apache Kafka for scalable streaming, ensuring immediate classification results within 300ms.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+### Plate Planner: ML-Powered Smart Meal Recommendation System
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+- SystemBuilt "Plate Planner," an intelligent meal planning system designed to eliminate decision fatigue with 1-tapmeal suggestions and reduce food waste through inventory-aware planning.
+- Leveraged on-device CoreMLfor grocery scanning, an LLM (GPT) for recipe generation, and Neo4j for smart ingredient substitutions, showcasing end-to-end ML application development.
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+### Real-Time Salary Prediction Dashboard Using Linear Regression
+[Dashboard](https://app.powerbi.com/links/v_H6JGZCtn?ctid=e85c5307-76b1-4c48-bc5d-e88373dda261&pbi_source=linkShare&bookmarkGuid=81b2ac65-c4ff-4d69-bace-3d82daddb14e))
 
-![Bike Study](/assets/img/bike_study.jpeg)
+- Developed a predictive model for IT professionals' salaries using linear regression (R² = 0.62), analyzingStack Overflow (2020-2024) data.
+- Integrated a Power BI dashboard for real-time salary insights, enhancingdecision-making efficiency by 35%. Designed the model for adaptable, real-time integration into applications,enabling dynamic compensation analysis and career planning.
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+### Tesla Stock Forecasting with Sentiment Analysis Using Snowpark
+- Developed an end-to-end data pipeline to analyze Elon Musk's tweet sentiment and Tesla stock data, utilizing ApacheAirflow for orchestration, Snowflake for data warehousing, and DBT for ELT transformations.
+- Performed sentimentclassification and visualized insights using Superset, uncovering a measurable correlation between tweet sentiment andshort-term stock price movements. This project culminated in a predictive model designed to identify early signals ofstock price direction.
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+## PERSONAL ONGOING RESEARCH & DEVELOPMENT 
+### AI Mental Health Support System
+- Developing an AI-driven mental health support system utilizing Kaggle datasets for data acquisition and preprocessing.
+- Exploring fine-tuning deep learning models/LLMs and building AI agents for empathetic support.
+- Designing for adaptable integration into hospital systems (private models with patient data) or wearables, focusing on scalable and ethical AI solutions
 
-## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
+## Extracurricular Activities
+### Club Memberships
+- Responsible Computing Club (RCC), SJSU – Active participant promoting ethical and impactful use of computing technologies.
 
-- [Data Science Blog](https://medium.com/@shawhin)
+- Analytics Club, SJSU – Engaged member involved in discussions, workshops, and events focused on data analytics and business intelligence.
+
+### Events & Conferences
+- Upcoming: Attending Snowflake Dev Day at Moscone Center, San Francisco – June 5, 2025
+
+- Recently Attended: Participated in the Microsoft AI Skill Fest, held at the San Francisco Conference Center – May 25–29, 2025
