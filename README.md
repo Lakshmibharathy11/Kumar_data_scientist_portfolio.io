@@ -26,22 +26,22 @@
 🔹 **Real-Time Harmful Image Detection (MobileNetV2 + Kafka)**  
 - Edge-aware image classification (**83.5% accuracy**, <300ms latency).  
 - Scalable Kafka-based deployment for real-time content moderation.  
-➡️ [https://github.com/Lakshmibharathy11/Image_classification](#)  
+➡️ [GitHub Repo](https://github.com/Lakshmibharathy11/Image_classification) 
 
 🔹 **Smart Meal Recommender (Plate Planner)**  
 - On-device system integrating **CoreML (food detection)**, **GPT (recipe generation)**, and **Neo4j (substitutions)**.  
 - Demonstrated low-latency, personalized meal planning for nutrition & waste reduction.  
-➡️ [GitHub Repo](#)  
+➡️ [GitHub Repo](https://github.com/Lakshmibharathy11/plate-planner-api-main)  
 
 🔹 **Tesla Stock Forecasting with Sentiment Analysis**  
 - End-to-end pipeline combining **Twitter sentiment (VADER)** with Tesla stock data.  
 - Built using **Airflow, Snowflake, dbt**; predictive insights on short-term price movements.  
-➡️ [GitHub Repo](#)  
+➡️ [GitHub Repo](https://github.com/Lakshmibharathy11/Elon_musk-s_tweet_impact)  
 
 🔹 **Real-Time Salary Predictor**  
 - Regression model (**R² = 0.62**) using multi-year Stack Overflow data.  
 - Interactive **Power BI dashboard** for real-time salary insights.  
-➡️ [GitHub Repo](#)  
+➡️ [GitHub Repo](https://github.com/Lakshmibharathy11/Salary-Prediction)  
 
 🔹 **AI-Powered SaaS Ticket Triage (In Progress)**  
 - Deep learning pipeline for SaaS ticket classification with **LangChain, FastAPI, n8n**.  
