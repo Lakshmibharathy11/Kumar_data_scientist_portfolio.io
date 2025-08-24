@@ -1,54 +1,101 @@
-# Data Scientist
+# 👋 Hi, I'm Lakshmi Bharathy Kumar  
 
-#### Technical Skills: Python, SQl, Hadoop, Spark, Tensorflow, Sci-kit learn
+🎓 **Master’s student in Data Analytics at San Jose State University**  
+💡 Passionate about **AI/ML research and development**, with a focus on building efficient, practical, and responsible intelligent systems.  
+🔍 Seeking opportunities in **AI/ML Engineer** and **Research Intern** roles.  
 
-## Education
-- M.S., Data Analytics	| San Jose State University (_Aug 2024 - May 2026_)	 			        		
-- B.S., Electronics and communication engineering | Saranathan College of engineering (_May 2014_)
+---
 
-## Work Experience
-**Marketing Analyst  @ Repunext (_July 2020 - December 2022)**
-- Led keyword research and content optimization using SEMrush, increasing organic traffic by 5–7% in six months.
-- Analyzed website performance with Google Analytics and SQL, identifying trends to refine marketing strategies.
-- Built Tableau dashboards to track campaign performance, improving client ROI by 15% through data-driven insights.
-- Automated reporting and user segmentation with Python, boosting customer engagement by 10–12%.
+## 🎓 Education  
 
-**Marketing Analyst @ Web Digital Mantra (_January 2018 - Febraury 2020)**
-- Conducted in-depth data analysis using SEMrush and Google Analytics to extract actionable insights from website performance metrics, leading to a 10–12% improvement in keyword rankings and a 15% increase in conversion rates
+**M.S. Data Analytics, San Jose State University, CA (Aug 2024 – May 2026, expected)**  
+- Coursework: Machine Learning, Deep Learning, GenAI, Big Data Analytics, Database Systems  
+- **Graduate Thesis (Advisor: Dr. Guannan Liu; Committee: Dr. Mohammad Masum, Dr. Yue Luo):**  
+  Developing a multimodal eye-tracking model for robust intent prediction by fusing gaze, fixation, and eye-image features, with emphasis on interpretability and **Human–Computer Interaction (HCI)**.  
 
-## Projects
-### Real-Time Harmful Image Detection Using Deep Learning & Kafka
+**B.E. Electronics & Communication, Saranathan College of Engineering, India (May 2014)**  
 
-- Designed and implemented a real-time image classification system to detect malicious content, addressingthechallenge of user-generated content moderation. Leveraged MobileNetV2 (83.5% accuracy) and Apache Kafka for scalable streaming, ensuring immediate classification results within 300ms.
+---
 
-### Plate Planner: ML-Powered Smart Meal Recommendation System
+## 🧪 Research & Academic Projects  
 
-- SystemBuilt "Plate Planner," an intelligent meal planning system designed to eliminate decision fatigue with 1-tapmeal suggestions and reduce food waste through inventory-aware planning.
-- Leveraged on-device CoreMLfor grocery scanning, an LLM (GPT) for recipe generation, and Neo4j for smart ingredient substitutions, showcasing end-to-end ML application development.
+🔹 **Graduate Thesis (Ongoing)**  
+- Multimodal eye-tracking model for intent prediction (gaze, fixation, eye-image fusion).  
+- Focus on interpretability & hands-free HCI for accessibility.  
 
-### Real-Time Salary Prediction Dashboard Using Linear Regression
-[Dashboard](https://app.powerbi.com/links/v_H6JGZCtn?ctid=e85c5307-76b1-4c48-bc5d-e88373dda261&pbi_source=linkShare&bookmarkGuid=81b2ac65-c4ff-4d69-bace-3d82daddb14e))
+🔹 **Real-Time Harmful Image Detection (MobileNetV2 + Kafka)**  
+- Edge-aware image classification (**83.5% accuracy**, <300ms latency).  
+- Scalable Kafka-based deployment for real-time content moderation.  
+➡️ [https://github.com/Lakshmibharathy11/Image_classification](#)  
 
-- Developed a predictive model for IT professionals' salaries using linear regression (R² = 0.62), analyzingStack Overflow (2020-2024) data.
-- Integrated a Power BI dashboard for real-time salary insights, enhancingdecision-making efficiency by 35%. Designed the model for adaptable, real-time integration into applications,enabling dynamic compensation analysis and career planning.
+🔹 **Smart Meal Recommender (Plate Planner)**  
+- On-device system integrating **CoreML (food detection)**, **GPT (recipe generation)**, and **Neo4j (substitutions)**.  
+- Demonstrated low-latency, personalized meal planning for nutrition & waste reduction.  
+➡️ [GitHub Repo](#)  
 
-### Tesla Stock Forecasting with Sentiment Analysis Using Snowpark
-- Developed an end-to-end data pipeline to analyze Elon Musk's tweet sentiment and Tesla stock data, utilizing ApacheAirflow for orchestration, Snowflake for data warehousing, and DBT for ELT transformations.
-- Performed sentimentclassification and visualized insights using Superset, uncovering a measurable correlation between tweet sentiment andshort-term stock price movements. This project culminated in a predictive model designed to identify early signals ofstock price direction.
+🔹 **Tesla Stock Forecasting with Sentiment Analysis**  
+- End-to-end pipeline combining **Twitter sentiment (VADER)** with Tesla stock data.  
+- Built using **Airflow, Snowflake, dbt**; predictive insights on short-term price movements.  
+➡️ [GitHub Repo](#)  
 
-## PERSONAL ONGOING RESEARCH & DEVELOPMENT 
-### AI Mental Health Support System
-- Developing an AI-driven mental health support system utilizing Kaggle datasets for data acquisition and preprocessing.
-- Exploring fine-tuning deep learning models/LLMs and building AI agents for empathetic support.
-- Designing for adaptable integration into hospital systems (private models with patient data) or wearables, focusing on scalable and ethical AI solutions
+🔹 **Real-Time Salary Predictor**  
+- Regression model (**R² = 0.62**) using multi-year Stack Overflow data.  
+- Interactive **Power BI dashboard** for real-time salary insights.  
+➡️ [GitHub Repo](#)  
 
-## Extracurricular Activities
-### Club Memberships
-- Responsible Computing Club (RCC), SJSU – Active participant promoting ethical and impactful use of computing technologies.
+🔹 **AI-Powered SaaS Ticket Triage (In Progress)**  
+- Deep learning pipeline for SaaS ticket classification with **LangChain, FastAPI, n8n**.  
+- Exploring workflow automation for scalable ML-driven support systems.  
+➡️ [GitHub Repo](#)  
 
-- Analytics Club, SJSU – Engaged member involved in discussions, workshops, and events focused on data analytics and business intelligence.
+---
 
-### Events & Conferences
-- Upcoming: Attending Snowflake Dev Day at Moscone Center, San Francisco – June 5, 2025
+## 💼 Professional Experience  
 
-- Recently Attended: Participated in the Microsoft AI Skill Fest, held at the San Francisco Conference Center – May 25–29, 2025
+**Marketing Analyst / SEO Specialist**  
+Repunext, Chennai, India | *Jun 2020 – Dec 2022*  
+Web Digital Mantra, Bangalore, India | *Jan 2018 – Feb 2020*  
+- Conducted keyword research, market analysis, and content optimization using **SEMrush, Ubersuggest, Google Analytics/Trends**, improving rankings by **10–12%** and conversion rates by **15%**.  
+- Automated reporting with **Python & SQL**; built **Tableau dashboards** improving client ROI by **15%** and engagement by **10–12%**. Also authored technical blogs and collaborated with cross-functional teams.  
+
+---
+
+## ⚙️ Tech Stack  
+
+**Languages & Frameworks**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)  
+![CoreML](https://img.shields.io/badge/CoreML-000000?style=for-the-badge&logo=apple&logoColor=white)  
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)  
+
+**MLOps & Data Pipelines**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)  
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)  
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)  
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)  
+![n8n](https://img.shields.io/badge/n8n-EA4C89?style=for-the-badge&logo=n8n&logoColor=white)  
+
+**Visualization & Databases**  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)  
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)  
+
+---
+
+## 📬 Connect with Me  
+
+<a href="https://github.com/Lakshmibharathy11">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+</a>
+<a href="https://www.linkedin.com/in/lakshmi-bharathy-kumar/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+</a>
+<a href="mailto:lakshmibharathyk@gmail.com">
+  <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="40"/>
+</a>  
+
+---
